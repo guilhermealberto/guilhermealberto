@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="left" id="galberto-title">:wave: Olá! Eu sou o Guilherme Alberto</h1>
+<h3 align="left">Sócio fundador na ZAAVE Technology</h3>
 
-<!--
-**guilhermealberto/guilhermealberto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- :office: &nbsp;Estou atualmente liderando equipes e desenvolvendo na **ZAAVE IT**
+- :seedling: &nbsp;Estou atualmente aprendendo **Dart**
+- :speech_balloon: &nbsp;Gosto de conversar sobre **Negócios**, **Fé** e o **Sentido** das coisas 
+- :mailbox: &nbsp;Me pergunte qualquer coisa via redes sociais abaixo
+- :computer: &nbsp;Vamos marcar uma café?
+ <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left" id="galberto-tech">Favorite Tech</h2>
+
+> Ferramentas, linguagens e outras coisas com as quais gosto de trabalhar.
+
+<div style="display: inline_block">
+  <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gui-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Gui-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />  
+  <img align="center" alt="Gui-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Gui-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+   <img align="center" alt="Gui-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+ </div>
+   <br>
+ 
+ <h2 align="left" id="galberto-media">Redes sociais e contato</h2>
+
+ <div style="display: inline_block">
+<div> 
+  <a href="https://www.linkedin.com/in/guilherme-alberto-bb0a5b143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:guildefrc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCCTzTR5clEAEZat4fjD-zDw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/guilhermealbertoo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
