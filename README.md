@@ -1,13 +1,15 @@
 <h1 align="left" id="galberto-title">:wave: Olá! Eu sou o Guilherme Alberto</h1>
+<img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
+<br>
 <h3 align="left">Sócio fundador na ZAAVE Technology</h3>
 
+- Estou atualmente liderando equipes e desenvolvendo na **ZAAVE IT**
+- Estou atualmente aprendendo **Dart**
+- Gosto de conversar sobre **Negócios**, **Fé** e o **Sentido** das coisas 
+- Me pergunte qualquer coisa via redes sociais abaixo
+- Vamos marcar uma café?
 
-- :office: &nbsp;Estou atualmente liderando equipes e desenvolvendo na **ZAAVE IT**
-- :seedling: &nbsp;Estou atualmente aprendendo **Dart**
-- :speech_balloon: &nbsp;Gosto de conversar sobre **Negócios**, **Fé** e o **Sentido** das coisas 
-- :mailbox: &nbsp;Me pergunte qualquer coisa via redes sociais abaixo
-- :computer: &nbsp;Vamos marcar uma café?
- <br>
+<br>
 
 <h2 align="left" id="galberto-tech">Favorite Tech</h2>
 
@@ -25,6 +27,7 @@
    <img align="center" alt="Gui-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
  </div>
    <br>
+   
  
  <h2 align="left" id="galberto-media">Redes sociais e contato</h2>
 
