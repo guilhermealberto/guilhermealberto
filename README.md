@@ -34,6 +34,9 @@
  <div style="display: inline_block">
 <div> 
   <a href="https://www.linkedin.com/in/guilherme-alberto-bb0a5b143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=5516997206578">
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-4FCE5D?style=for-the-badge&logo=WhatsApp&logoColor=white" />
+</a>
     <a href = "mailto:guildefrc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCCTzTR5clEAEZat4fjD-zDw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/guilhermealbertoo_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
