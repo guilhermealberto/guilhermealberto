@@ -1,7 +1,7 @@
 <h1 align="left" id="galberto-title">:wave: Olá! Eu sou o Guilherme Alberto</h1>
 <img align="right" width="500" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
 <br>
-<h3 align="left">Sócio fundador na ZAAVE Technology</h3>
+<h3 align="left">Full Stack Developer e Sócio na ZAAVE Tecnologia</h3>
 
 - Estou atualmente liderando equipes e desenvolvendo na **ZAAVE IT**
 - Apaixonado por **Tecnologia**
