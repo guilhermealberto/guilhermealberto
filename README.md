@@ -4,7 +4,7 @@
 <h3 align="left">Sócio fundador na ZAAVE Technology</h3>
 
 - Estou atualmente liderando equipes e desenvolvendo na **ZAAVE IT**
-- Estou atualmente aprendendo **Dart**
+- Apaixonado por **Tecnologia**
 - Gosto de conversar sobre **Negócios**, **Fé** e o **Sentido** das coisas 
 - Me pergunte qualquer coisa via redes sociais abaixo
 - Vamos marcar uma café?
